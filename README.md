@@ -8,7 +8,6 @@ The repository is structured as follows:
 
 ```text
 /
-├── Datasets/               # Contains the datasets required for the tasks
 ├── MLCOE_ML_Wildcard_Recruitment_Task.pdf    # Task details and requirements for Machine Learning
 ├── MLCOE_Web_Development_Recruitment_Task.pdf     # Task details and requirements for Web Development
 └── Design.pdf              # Task details and requirements for Design
