@@ -13,7 +13,14 @@ The repository is structured as follows:
 ├── MLCOE_Web_Development_Recruitment_Task.pdf     # Task details and requirements for Web Development
 └── Design.pdf              # Task details and requirements for Design
 ```
-Please open the PDF corresponding to your chosen domain to view the problem statements. If your task requires a dataset, you can find the relevant files inside the `Datasets/` directory.
+Please open the PDF corresponding to your chosen domain to view the problem statements. If your task requires a dataset, you can access them via the Google Drive links below:
+
+### Datasets
+* 📁 [Used Car Price Prediction Dataset](https://drive.google.com/file/d/1rigo3Wa0dMN59786QSmNHC3kzKvt31rw/view?usp=sharing)
+* 📁 [Telco Customer Churn Dataset](https://drive.google.com/file/d/15y0luljqP_rdx6WyW-eBWP0sxu38poYs/view?usp=sharing)
+* 📁 [Bank Marketing Dataset](https://drive.google.com/file/d/13QODZc4Gmnts6i2UNzrzi815XdyZZaPA/view?usp=sharing)
+
+---
 
 ## Submission Process
 All wildcard submissions for **Machine Learning, Web Development, and Design** must be submitted via the official Form linked at the bottom of this page.
