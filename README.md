@@ -29,7 +29,6 @@ Before filling out the form, please ensure you have prepared your submission acc
 ### Machine Learning & Web Development
 * Upload your complete project to a public GitHub repository under your own account.
 * Ensure your repository includes a clear `README.md` explaining how to run the project.
-* For Web Development, providing a live hosted link (e.g., Vercel, Netlify, GitHub Pages) is highly encouraged.
 
 ### Design
 * Host your design on Figma(ensure the link is set to "Anyone with the link can view").
