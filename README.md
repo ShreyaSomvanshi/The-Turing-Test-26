@@ -8,9 +8,9 @@ The repository is structured as follows:
 
 ```text
 /
-├── MLCOE_ML_Wildcard_Recruitment_Task.pdf    # Task details and requirements for Machine Learning
+├── MLCOE_ML_Wildcard_Recruitment_Task.pdf         # Task details and requirements for Machine Learning
 ├── MLCOE_Web_Development_Recruitment_Task.pdf     # Task details and requirements for Web Development
-└── Design.pdf              # Task details and requirements for Design
+└── Design.pdf                                     # Task details and requirements for Design
 ```
 Please open the PDF corresponding to your chosen domain to view the problem statements. If your task requires a dataset, you can access them via the Google Drive links below:
 
@@ -32,8 +32,7 @@ Before filling out the form, please ensure you have prepared your submission acc
 * For Web Development, providing a live hosted link (e.g., Vercel, Netlify, GitHub Pages) is highly encouraged.
 
 ### Design
-* Host your design on Figma, Behance, or a cloud drive (ensure the link is set to "Anyone with the link can view").
-* Alternatively, prepare a PDF or image export of your design solution to upload or link.
+* Host your design on Figma(ensure the link is set to "Anyone with the link can view").
 
 ---
 
