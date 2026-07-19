@@ -55,7 +55,7 @@ Submissions will be evaluated based on:
 ## Submission Form Link
 Click the link below to submit your task:
 
-👉 **[Submit Your Wildcard Task Here](mlcoe.tech/wildcard)**
+👉 **[Submit Your Wildcard Task Here](https://mlcoe.tech)**
 
 ---
 
